@@ -37,15 +37,15 @@ Before you start, ensure you have the following installed:
    
   **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Amityadav2662/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
     
-  **3.** Conduct a comprehensive comparison between _[Division level report](https://github.com/Amityadav2662/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+  **3.** Conduct a comprehensive comparison between _[Division level report](https://github.com/Amityadav2662/Excel-Sales-Finance-Analytics/blob/main/Division%20level%20report.pdf)_
   
-  **4.** Conduct a comprehensive comparison between _[New Products - 2021](https://github.com/Amityadav2662/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+  **4.** Conduct a comprehensive comparison between _[New Products - 2021](https://github.com/Amityadav2662/Excel-Sales-Finance-Analytics/blob/main/New%20Product%20-%202021.pdf)_
   
-  **5.** Conduct a comprehensive comparison between _[Top - 10 Products](https://github.com/Amityadav2662/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+  **5.** Conduct a comprehensive comparison between _[Top - 10 Products](https://github.com/Amityadav2662/Excel-Sales-Finance-Analytics/blob/main/Top%20-%2010%20Products.pdf)_
   
-  **6.** Conduct a comprehensive comparison between _[Top & Bottom 5 products](https://github.com/Amityadav2662/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+  **6.** Conduct a comprehensive comparison between _[Top & Bottom 5 products](https://github.com/Amityadav2662/Excel-Sales-Finance-Analytics/blob/main/Top%20%26%20Bottom%205%20Products.pdf)_
   
-  **7.** Conduct a comprehensive comparison between _[Top 5 country - 2021](https://github.com/Amityadav2662/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+  **7.** Conduct a comprehensive comparison between _[Top 5 country - 2021](https://github.com/Amityadav2662/Excel-Sales-Finance-Analytics/blob/main/Top%205%20country%20-%202021.pdf)_
 
     
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
